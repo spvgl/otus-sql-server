@@ -1,1 +1,0 @@
-# otus-sql-server
