@@ -17,7 +17,7 @@ docker build -t mssql2019_dev .
 3. Запустить контейнер
 
 ```
-docker run --name mssql2019_dev -p 1439:1433 -d mssql2019_dev
+docker run --name mssql2019_dev -p 1433:1433 -d mssql2019_dev
 ```
 
 Запускаться может десятки секунд и дольше 
